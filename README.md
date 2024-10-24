@@ -3,3 +3,6 @@
 # P5-empty-project
 This repository is the starting point of the assignments given in the course [Computergrafica per l'Information Design](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=834257&lang=IT&__pj0=0&__pj1=9c10fe379e96db59d55d49b6b4252c5e).
 
+# L'opera
+Untitled (MV578A) Carrés concentriques, 1974, Vera Molnàr.
+Link: https://www.mayorgallery.com/artists/190-vera-molnar/works/3505-vera-molnar-untitled-mv578a-carres-concentriques-1974/ 
